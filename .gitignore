@@ -1,5 +1,6 @@
 # pic
 *.png
+*.jpg
 
 # python
 *.py[cod]
